@@ -36,7 +36,7 @@ The Tetroplater also has a 2.5-&micro;A constant DC current source for electropl
 2. Connect the probes for the bath of gold plating solution and the electrode to *BATH* and *EL* terminals, respectively. Use the shield cables between the probes and the terminals and connect the shields to *SHIELD* terminal.
 3. Connect the *V_MEA_IN*, *V_MEA_OUT* and *GND* terminals to an oscilloscope.
 4. The rest of *GND* terminals can be used for electric shields around the electrode to reduce hum noise. 
-5. Adjust oscillator amplitude (*V_MEA_IN*) turning the trimmer potentiometer (*R12*) to be 30~40 mV<sub>p-p</sub>. 
+5. Adjust oscillator amplitude (*V_MEA_IN*) to be 30~40 mV<sub>p-p</sub> by turning the trimmer potentiometer (*R12*). 
 
 <img src="imgs/an example of setup (with numbers).jpg" width=50%>
 
