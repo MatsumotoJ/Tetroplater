@@ -53,7 +53,7 @@ alt="VIDEO" width="480" height="360" border="0" /></a>
 
 Because only *V<sub>out</sub>* changes through the plating, oscilloscope with only one input channel also works (there is [a cheap one](https://www.amazon.com/dp/B077D62Z1P/))
 
-## Typical result
+## Typical results
 | |Before (M&Omega;)|After (k&Omega;)|
 |:--|--:|--:|
 |Tetrode 1, ch 1|4.0|310| 
