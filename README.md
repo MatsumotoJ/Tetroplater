@@ -51,7 +51,7 @@ An example of a setup. 1, the Tetroplater board; 2, [a dual power supply](https:
 " target="_blank"><img src="http://img.youtube.com/vi/_l2WEoUy-h4/0.jpg" 
 alt="VIDEO" width="480" height="360" border="0" /></a>
 
-Because only *V<sub>out</sub>* changes through the plating, oscilloscope with only one input channel also works (there is [a very cheap one](https://www.amazon.com/dp/B077D62Z1P/))
+Because only *V<sub>out</sub>* changes through the plating, oscilloscope with only one input channel also works (there is [a cheap one](https://www.amazon.com/dp/B077D62Z1P/))
 
 ## Typical result
 | |Before (M&Omega;)|After (k&Omega;)|
