@@ -16,7 +16,7 @@ The Tetroplater measures the electrode impedance with a “auto-balancing bridge
 
 <img src="imgs/auto-balancing bridge.png" width=50%>
 
-Here, the 1 kHz sin-wave oscillator signal (*V<sub>in</sub>* = 3~4 mV<sub>p-p</sub>) is input to the electrode. The operational amplifier makes the voltage at the open circle zero. So, currents flowing the electrode (*I<sub>electrode</sub>*) and Reference resistor *R<sub>ref</sub>* (*I<sub>ref</sub>*) become equal. Therefore, from Ohm’s row, 
+Here, the 1 kHz sin-wave oscillator signal (*V<sub>in</sub>* = 3~4 mV<sub>p-p</sub>) is input to the electrode. The operational amplifier makes the voltage at the open circle zero. So, currents passing the electrode (*I<sub>electrode</sub>*) and Reference resistor *R<sub>ref</sub>* (*I<sub>ref</sub>*) become equal. Therefore, from Ohm’s row, 
 
 *R<sub>electrode</sub> / V<sub>in</sub> = R<sub>ref</sub> / V<sub>out</sub>*
 
