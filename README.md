@@ -25,7 +25,7 @@ Where *R<sub>electrode</sub>* is the impedance of electrode and *V<sub>out</sub>
 The Tetroplater also has a 2.5-&micro;A constant DC current source for electroplating.
 
 ## Fabricating the circuit board
-1. Print the PCB from the eagle files (*tetroplater.brd*) or the gerber file (*gerber_seeed_studio.zip*; prepared for [Seeed Studio](https://www.seeedstudio.com/fusion_pcb.html)). 
+1. Print the PCB from the eagle file (*tetroplater.brd*) or the gerber file (*gerber_seeed_studio.zip*; prepared for [Seeed Studio](https://www.seeedstudio.com/fusion_pcb.html)). 
 2. Get the electric parts in the list (*digikey_cart.csv*; the file can be import in [DigiKey](https://www.digikey.com/) as a shopping cart. The quantities include spares).
 3. Assemble them according to the figure below.
 
