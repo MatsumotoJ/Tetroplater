@@ -1,5 +1,5 @@
 # Tetroplater
-An open-source circuit board for microwire tetrode gold plating, designed by Jumpei Matsumoto ([Nishijo lab, Univ of Toyama](http://www.med.u-toyama.ac.jp/sysemosci/index.html)).
+An open-source circuit for microwire tetrode gold plating, designed by Jumpei Matsumoto ([Nishijo lab, Univ of Toyama](http://www.med.u-toyama.ac.jp/sysemosci/index.html)).
 
 ## Overview
 *See [Nguyen et al., 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2794082/) for the basics about tetrode gold plating.*
