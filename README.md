@@ -73,7 +73,7 @@ Because only *V<sub>out</sub>* changes through the plating, oscilloscope with on
 |Tetrode 4, ch 3|4.3|300|
 |Tetrode 4, ch 4|3.1|300|
 
-Four nichrome wire tetrodes ([Sandvik Precision Fine Tetrode Wire](https://www.amazon.com/dp/B0062MNUG6)) impedance measured before and after gold plating with the Tetroplater (using [Neuralynx Gold Plating Solution](https://neuralynx.com/hardware/gold-plating-solution)). The impedance values were checked with [Thomas Recording Impedance Tester](http://www.thomasrecording.com/products/neuroscience-products/microelectrodes/manufacturing-equipment/electrode-impedance-tester.html).
+Impedances of four nichrome wire tetrodes ([Sandvik Precision Fine Tetrode Wire](https://www.amazon.com/dp/B0062MNUG6)) measured before and after gold plating with the Tetroplater (using [Neuralynx Gold Plating Solution](https://neuralynx.com/hardware/gold-plating-solution)). The impedance values were checked with [Thomas Recording Impedance Tester](http://www.thomasrecording.com/products/neuroscience-products/microelectrodes/manufacturing-equipment/electrode-impedance-tester.html).
 
 <img src="imgs/recording from cortex.png" width=80%>
 
