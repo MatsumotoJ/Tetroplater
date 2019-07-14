@@ -1,4 +1,5 @@
-# Tetroplater
+# Tetroplater [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3334859.svg)](https://doi.org/10.5281/zenodo.3334859)
+
 An open-source circuit for microwire tetrode gold plating, designed by Jumpei Matsumoto ([Nishijo lab, Univ of Toyama](http://www.med.u-toyama.ac.jp/sysemosci/index.html)).
 
 ## Overview
