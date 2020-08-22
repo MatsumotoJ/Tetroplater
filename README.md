@@ -83,6 +83,7 @@ Signals from tetrodes gold plated with the Tetroplater (in neocortex, high-pass 
 ## misc
 - The circuit could be extended for multichannel automatic plating by adding a multiplexer, a microcomputer and etc. The output range of *V_MEA_OUT* is suitable for input to [the Spectrum Shield](https://www.sparkfun.com/products/13116) for Arduino. You can also find some hints in an [Open Ephys repository](https://github.com/open-ephys/autoimpedance).
 
+- [A nice reproduction case](./imgs/gold_plater_nolan_lab.png) by [Nolan lab](https://nolanlab.mvm.ed.ac.uk/)!!
 
 ## Acknowledgements
 We thank Masahiro Kato (Kato Acoustics Consulting Office) and Jon Newman (MIT, Open Ephys) for their advices for the circuit design. 
