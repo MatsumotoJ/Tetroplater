@@ -46,7 +46,7 @@ An example of a setup. 1, the Tetroplater board; 2, [a dual power supply](https:
 ## Usage
 1. Connect the probes to gold plating solution and an electrode wire.
 2. *V_MEA_IN* and *V_MEA_OUT*, shown in the oscilloscope, are 10 times amplified *V<sub>in</sub>* and *V<sub>out</sub>*, respectively.
-3. Push the switch on the board briefly. During the switch is on, 2.5 &micro;A current passes for plating. Repeat it until the impedance (= 1 M&Omega; * *V_MEA_OUT* / *V_MEA_IN*) reaches the target range (see the video below). The target range can also be checked directly by measuring impedance of resistors of the corresponding values. 
+3. Push the switch on the board briefly. During the switch is on, 2.5 &micro;A current passes for plating. Repeat it until the impedance (= 1 M&Omega; * *V_MEA_IN* / *V_MEA_OUT*) reaches the target range (see the video below). The target range can also be checked directly by measuring impedance of resistors of the corresponding values. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_l2WEoUy-h4
 " target="_blank"><img src="http://img.youtube.com/vi/_l2WEoUy-h4/0.jpg" 
